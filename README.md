@@ -1,4 +1,4 @@
-# Chess Engine (PyTorch)
+# Knightmare (PyTorch)
 
 Lightweight Python 3.10+ chess engine with legal move generation, alpha-beta search, and a PyTorch evaluation network. The engine plays legal chess, supports castling, promotion, and en passant, and ships with a synthetic training pipeline.
 
